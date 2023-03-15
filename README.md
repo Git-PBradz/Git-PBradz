@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phil Bradham aka PBradz</h1>
 <h3 align="center">Less Ops and more Dev every day...</h3>
 
-- 🔭 I’m currently working on **Azure IoT Smart Cities Initiatives**
+- 🔭 I’m currently working on **Azure skills refresh/update**
 
 - 🌱 I’m currently learning **Python**
 
